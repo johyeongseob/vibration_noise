@@ -1,9 +1,65 @@
-# Vibration Analysis of Structures Using Julia Programming
+# 📘 Vibration Analysis of Structures Using Julia Programming
 
 Dongguk University | Department of Mechanical, Robotics, and Energy Engineering  
-**Course**: 진동및소음 (MEC4032-01), Fall 2023
+**Course**: 진동및소음 (MEC4032-01), Fall 2023  
 **Instructor**: Prof. Moonkyu Kwak
 
-Text: Julia 프로그래밍을 활용한 구조물의 진동해석 (김수민, 곽문규) - 비공개
+---
 
-교재 내용: https://johyeongseob.tistory.com/category/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99/%EC%A7%84%EB%8F%99%EB%B0%8F%EC%86%8C%EC%9D%8C
+## 📚 Textbook
+
+**Title**: *Julia 프로그래밍을 활용한 구조물의 진동해석*  
+**Authors**: 김수민, 곽문규  
+**Availability**: 비공개 (Private)
+
+> This repository follows the structure and examples provided in the above textbook, integrating Julia programming with fundamental vibration theory in mechanical systems.
+
+---
+
+## 📂 Course Resource
+
+You can refer to summarized course materials and lecture notes through the blog below:
+
+🔗 **Reference Blog**:  
+[https://johyeongseob.tistory.com/category/기계공학/진동및소음](https://johyeongseob.tistory.com/category/%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99/%EC%A7%84%EB%8F%99%EB%B0%8F%EC%86%8C%EC%9D%8C)
+
+---
+
+## 📌 Repository Overview
+
+This repository aims to:
+
+- Implement key concepts in structural vibration using Julia
+- Provide reproducible code examples from the textbook
+- Support learning and practice for vibration engineering
+
+---
+
+## 🛠️ Requirements
+
+- Julia 1.6 or later
+- Basic packages: `LinearAlgebra`, `Plots`, `DelimitedFiles`
+
+---
+
+## ✅ Topics Covered
+
+- Single Degree of Freedom Systems (SDOF)
+- Multi Degree of Freedom Systems (MDOF)
+- Free and Forced Vibrations
+- Modal Analysis
+- Damping and Frequency Response
+- Matrix methods in vibration
+
+---
+
+## ✍️ Authors
+
+- Course Instructor: **Moonkyu Kwak**
+- Course Textbook Contributor: **Sumin Kim**
+- GitHub Repository Maintainer: *Your Name Here*
+
+---
+
+> ⚠️ This repository is for educational use only.  
+> All contents respect the textbook authors’ copyright.
