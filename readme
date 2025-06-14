@@ -44,12 +44,11 @@ This repository aims to:
 
 ## ✅ Topics Covered
 
-- Single Degree of Freedom Systems (SDOF)
-- Multi Degree of Freedom Systems (MDOF)
-- Free and Forced Vibrations
-- Modal Analysis
-- Damping and Frequency Response
-- Matrix methods in vibration
+- Introduction of Vibration  
+- Basic Mathematics 1  
+- Analysis of Single Degree of Freedom (SDOF) Systems  
+- Basic Mathematics 2  
+- Vibration Analysis of Multi Degree of Freedom (MDOF) Systems  
 
 ---
 
@@ -57,7 +56,7 @@ This repository aims to:
 
 - Course Instructor: **Moonkyu Kwak**
 - Course Textbook Contributor: **Sumin Kim**
-- GitHub Repository Maintainer: *Your Name Here*
+- GitHub Repository Maintainer: *Hyeongseob Jo*
 
 ---
 
